@@ -39,7 +39,7 @@ Clean, dark-themed interface for improved user experience.
 **Demo**
 
 A live demo can be hosted locally or on a server.  **Backend Live Link (https://vdo-calling-4.onrender.com)**
-                                                     **(https://vdo-calling-5frontend.onrender.com)**
+                                                     **Frontend Live Link (https://vdo-calling-5frontend.onrender.com)**
 
 **Tech Stack**
 
